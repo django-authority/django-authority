@@ -1,6 +1,7 @@
 import django.contrib.auth.views
-from django.urls import include, re_path, handler500
+from django.conf.urls import include, handler500
 from django.conf import settings
+from django.urls import re_path
 
 import authority.views
 import authority.urls
