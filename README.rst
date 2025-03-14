@@ -58,6 +58,12 @@ html version using the setup.py::
 Changelog:
 ==========
 
+0.16:
+------------------
+* Setup compatibility for Django 3.2 - Django 4.2.
+* Setup compatibility for Python 3.8 - 3.10.
+
+
 0.15 (unreleased):
 ------------------
 
